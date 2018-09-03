@@ -1,11 +1,9 @@
 # VAT-PyTorch
 
-Implement of VAT-NN by PyTorch.
+## the result of VAT for Moon dataset:
 
-the result of VAT for Moon dataset:
-
-before:
+before:  
 <img src="before.png" />
 
-after:
+after:  
 <img src="after.png" />
